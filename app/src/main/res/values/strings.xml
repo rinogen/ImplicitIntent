@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="edittext_website">http://developer.android.com</string>
+    <string name="edittext_location">Yogyakarta</string>
+    <string name="edittext_share">Share This Text</string>
+    <string name="button_web">Open Website</string>
+    <string name="button_location">Open Location</string>
+    <string name="button_share">Share Text</string>
+</resources>
